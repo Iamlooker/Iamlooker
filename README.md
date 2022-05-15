@@ -11,4 +11,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have many hobbies like Walking, Swimming, Reading Fiction, and much more
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iamlooker)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iamlooker&theme=dark)
