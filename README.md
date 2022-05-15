@@ -1,16 +1,14 @@
 ### Hi there 👋
+##### I am Mohit, a.k.a LooKeR
+##### I love Android Development
 
-<!--
-**Iamlooker/Iamlooker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Howl, NeoStore
+- 🌱 I’m currently learning Kotlin Coroutines
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with Network calls with Coroutines
+- 💬 Ask me about Android Development
+- 📫 How to reach me: [Telegram](t.me/Iamlooker) is the best source to chat with me
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have many hobbies like Walking, Swimming, Reading Fiction, and much more
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iamlooker)](https://git.io/streak-stats)
