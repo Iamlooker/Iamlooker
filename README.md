@@ -21,7 +21,4 @@
 [!["Buy Me A Coffee"](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/iamlooker)
 
 ### Stats
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamlooker&show_icons=true&include_all_commits=true&theme=tokyonight" width="48%" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Iamlooker&theme=tokyonight" width="48%" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Iamlooker&theme=catppuccin-mocha)](https://git.io/streak-stats)
